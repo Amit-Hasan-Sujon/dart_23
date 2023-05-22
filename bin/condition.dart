@@ -18,7 +18,7 @@ main() {
    }
    else {
      return("Invalid Grade");
-     print("this is amit");
+
    }
 }
 
